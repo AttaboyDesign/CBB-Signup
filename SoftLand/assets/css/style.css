@@ -1024,7 +1024,7 @@ h1 {
   font-family: civane-extended, sans-serif;
 }
 .signup{
-  margin-top: 10%;
+  margin-top: 4%;
   margin-right: 20%;
   margin-left: 20%;
 }
@@ -1169,7 +1169,7 @@ option {
   background: url(https://images.unsplash.com/photo-1469013078550-305e63b7c8f7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
 }
 .hero-section.inner-page {
-  height: 70vh;
+  height: 60vh;
 }
 
 .footer {
