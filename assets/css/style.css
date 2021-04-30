@@ -1304,3 +1304,8 @@ background-color: #E8B720;
    margin-right: 5%;
    padding-top: 0;
  }
+
+ .form-check-input:checked {
+   background-color: #D85327;
+   border-color: #F8F7F4;
+ }
