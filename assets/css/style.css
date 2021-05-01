@@ -1088,7 +1088,7 @@ p {
 }
 
 .accordion-button:hover{
-  background-color: #D85327;
+  background-color: #5A6439;
   text-transform: uppercase;
   color:#F8F7F4;  
 }
@@ -1114,7 +1114,7 @@ p {
 }
 
 .red {
-  background-color:#BD4198;
+  background-color:#D85327;
 }
 
 .green {
@@ -1127,7 +1127,7 @@ p {
 
 .accordion-button:not(.collapsed) {
   color:#F8F7F4;
-  background-color: #D85327;
+  background-color: #5A6439;
   background-image:#F8F7F4;
 }
 
