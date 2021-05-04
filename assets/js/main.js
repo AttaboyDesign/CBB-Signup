@@ -4,6 +4,28 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+  /**
+   * preloader
+
+   $("#loader-wrapper").on('shown', function fade() {
+    $("#loader-wrapper").fadeOut("slow");
+    }
+    setTimeout(fade, 3000);
+	console.log("document loaded!");
+});
+   */
+
+
+$(document).on('show.bs.modal', '#exampleModal', function (e) {
+  console.log('works');
+  function fade() {
+    $('#loader-wrapper').fadeOut("slow");
+  }
+  setTimeout(fade, 3000);
+  console.log("document loaded!");
+});
+
 (function() {
   "use strict";
 
